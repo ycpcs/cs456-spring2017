@@ -1,0 +1,7 @@
+name: ""
+description: ""
+
+url: "http://ycpcs.github.io/cs456-spring2017"
+
+markdown: kramdown
+highlighter: rouge
