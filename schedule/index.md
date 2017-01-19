@@ -15,8 +15,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 >  Date   |      Topic      |                                    Reading                                             |
 > ------- | --------------  | -------------------------------------------------------------------------------------- |
 > Jan 19  | Introduction    | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
-
-
+> Jan 24  | Profession      | *The Business of Professionals*, Mari Sako (ACM - 7/13) <br /> *Making a Positive Impact: Updating the ACM Code of Ethics*, Bo Brinkman, Don Gotterbarn, Keith Miller, Marty J. Wolf (ACM - 12/16) |
 
 
 
