@@ -18,6 +18,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Jan 24  | Profession      | *The Business of Professionals*, Mari Sako (ACM - 7/13) <br /> *Making a Positive Impact: Updating the ACM Code of Ethics*, Bo Brinkman, Don Gotterbarn, Keith Miller, Marty J. Wolf (ACM - 12/16) |
 > Jan 26  | Responsibility  | *Software Needs Seatbelts and Airbags*, Emery D. Berger (ACM - 9/12) <br /> *Software Quality*, Peter J. Denning (ACM - 9/16) <br /> *Learning to Learn*, Peter J. Denning and Gloria Flores (ACM - 12/16) |
 > Jan 31  | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *Fair Use Prevails in Oracle v. Google*, Pamela Samuelson (ACM - 11/16) <br /> *New Exemptions to Anti-Circumvention Rules*, Pamela Samuelson (ACM - 3/16) |
+> Feb 2   | IP - Patents    | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Apple v. Samsung and the Upcoming Design Patent Wars?*, Pamela Samuelson (ACM - 7/16) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
 
 
 
