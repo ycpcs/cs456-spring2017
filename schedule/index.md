@@ -19,6 +19,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Jan 26  | Responsibility  | *Software Needs Seatbelts and Airbags*, Emery D. Berger (ACM - 9/12) <br /> *Software Quality*, Peter J. Denning (ACM - 9/16) <br /> *Learning to Learn*, Peter J. Denning and Gloria Flores (ACM - 12/16) |
 > Jan 31  | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *Fair Use Prevails in Oracle v. Google*, Pamela Samuelson (ACM - 11/16) <br /> *New Exemptions to Anti-Circumvention Rules*, Pamela Samuelson (ACM - 3/16) |
 > Feb 2   | IP - Patents    | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Apple v. Samsung and the Upcoming Design Patent Wars?*, Pamela Samuelson (ACM - 7/16) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Feb 14  | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *No Easy Answers in the Fight Over iPhone Decryption*, Felix Wu (ACM - 9/16) | 
+> Feb 16  | Privacy - II    | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *In Privacy Law, It's the U.S. vs. the World*, Tom Geller (ACM - 2/16) | 
 
 
 
