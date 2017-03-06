@@ -23,8 +23,10 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 16  | Privacy - II    | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *In Privacy Law, It's the U.S. vs. the World*, Tom Geller (ACM - 2/16) | 
 > Feb 23  | Security - I    | *Security or Privacy? A Matter of Perspective*, George Hurlburt, Irena Bojanova, Ann Sobel, and Keesha Crosby (IEEE - 11/14) <br /> *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Having a Conversation about Bulk Surveillance*, Herbert Lin (ACM - 2/16)|
 > Mar 7   | Security - II   | *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) <br /> *Computer Security is Broken: Can Better Hardware Help Fix It?*, Paul Kocher (ACM - 8/16)|  
+> Mar 9   | Individual      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *The Question of Information Justice*, Jeffrey Johnson (ACM - 3/16) |  
+> Mar 14  | Society         | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *How a Supervillain (or a Hacker in His Basement) Could Destroy the Internet*, Logan Kugler (ACM - 2/16) |  
 > Mar 21   | *AI job automation* <br /> Brandon Walton | |  
-> Mar 23   | *Google anti-trust* <br /> Chris Dierdorff | |  
+> Mar 23   | *FCC vs. Qualcomm* <br /> Chris Dierdorff | |  
 > Mar 28   | *Security in the IoT* <br /> Alex Mutzabaugh | |  
 > Mar 30   | *VR for training* <br /> Scott Fitzpatrick | |  
 > Apr 4    | *AI liability* <br /> Kyle Myers | |  
