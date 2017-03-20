@@ -25,15 +25,15 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 7   | Security - II   | *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) <br /> *Computer Security is Broken: Can Better Hardware Help Fix It?*, Paul Kocher (ACM - 8/16)|  
 > Mar 9   | Individual      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *The Question of Information Justice*, Jeffrey Johnson (ACM - 3/16) |  
 > Mar 14  | Society         | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *How a Supervillain (or a Hacker in His Basement) Could Destroy the Internet*, Logan Kugler (ACM - 2/16) |  
-> Mar 21   | *AI job automation* <br /> Brandon Walton | |  
-> Mar 23   | *FCC vs. Qualcomm* <br /> Chris Dierdorff | |  
-> Mar 28   | *Security in the IoT* <br /> Alex Mutzabaugh | |  
-> Mar 30   | *VR for training* <br /> Scott Fitzpatrick | |  
-> Apr 4    | *AI liability* <br /> Kyle Myers | |  
-> Apr 6    | *Fight against piracy* <br /> Chase Wells | |  
-> Apr 11   | *Music streaming* <br /> Anthony Austin | |  
-> Apr 18   | *End of Moore's law* <br /> Kevin Grasso | |  
-> Apr 20   | *Software flaws* <br /> Cooper Luetje | |  
+> Mar 23   | *AI job automation* <br /> Brandon Walton | [AI Won’t End the World, But It Might Take Your Job](https://www.wired.com/2015/02/ai-wont-end-world-might-take-job/) <br /> [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](https://mobile.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html) <br /> [https://mobile.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html](http://www.npr.org/2016/09/24/495186758/as-our-jobs-are-automated-some-say-well-need-a-guaranteed-basic-income) <br /> [Why AI could destroy more jobs than it creates, and how to save them](http://www.techrepublic.com/article/ai-is-destroying-more-jobs-than-it-creates-what-it-means-and-how-we-can-stop-it/)|  
+> Mar 28   | *FCC vs. Qualcomm* <br /> Chris Dierdorff | |  
+> Mar 30   | *Security in the IoT* <br /> Alex Mutzabaugh | |  
+> Apr 4    | *VR for training* <br /> Scott Fitzpatrick | |  
+> Apr 6    | *AI liability* <br /> Kyle Myers | |  
+> Apr 11   | *Fight against piracy* <br /> Chase Wells | |  
+> Apr 18   | *Music streaming* <br /> Anthony Austin | |  
+> Apr 20   | *End of Moore's law* <br /> Kevin Grasso | |  
+> Apr 25   | *Software flaws* <br /> Cooper Luetje | |  
 
 
 
