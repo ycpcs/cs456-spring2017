@@ -22,6 +22,9 @@ All information about the course will be posted here.
 * **Feb 14 - Exam 1 Part1b Due**
 * **Mar 21** - Exam 1 Part 2 Discussion
 * **Mar 24 - Exam 1 Part 2 Due** email a .pdf to dbabcock@ycp.edu by 11:59pm
+* **May 2** - Exam 2 Discussion
+* **May 5 - Exam 2 Due** email a .pdf to dbabcock@ycp.edu by 5:00pm
+* **May 10 - Final Report Due by 11:59pm**
 
 
 <!--

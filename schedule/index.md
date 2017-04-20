@@ -34,6 +34,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Apr 18   | *Music streaming* <br /> Anthony Austin | [Taylor Swift Explains Why She Left Spotify](http://www.businessinsider.com/taylor-swift-explains-why-she-left-spotify-2014-11) <br /> *Streaming or stealing? The complementary features between music streaming and music piracy*, Karla Borja and Suzanne Dieringer (Journal of Retailing and Consumer Services 9/16) |  
 > Apr 20   | *End of Moore's law* <br /> Kevin Grasso | [The chips are down for Moore’s law](http://www.nature.com/news/the-chips-are-down-for-moore-s-law-1.19338) <br /> [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) <br /> [After Moore's Law](http://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) <br /> *Has Moore's Law Been Repealed? An Economist's Perspective*, Kenneth Flamm (Computing in Science & Engineering - 3/17)|  
 > Apr 25   | *Software flaws* <br /> Cooper Luetje | |  
+> Apr 27   | Prof. Hake | |  
 
 
 
